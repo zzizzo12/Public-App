@@ -1,0 +1,68 @@
+.payement {
+    background-color: #fff;
+}
+
+.payement_infos > h1 {
+    text-align: center;
+    padding: 10px;
+    font-weight: 400;
+    background-color: rgb(234, 237, 237);
+    border-bottom: 1px solid lightgray;
+}
+
+.payement_infos > h1 a {
+    text-decoration: none;
+}
+
+.section_pay {
+    display: flex;
+    padding: 20px;
+    margin: 0 20px;
+    border-bottom: 1px solid lightgray;
+}
+
+.titre_payement {
+    flex: 0.2;
+}
+
+.adr_payement, .item_payement, .meth_payement {
+    flex: 0.8;
+}
+
+.btn_achat {
+    background: #f0c14b;
+    border-radius: 3px;
+    border: 1px solid;
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111;
+    font-size: 14px;
+}
+
+.infos_prix {
+    padding: 20px;
+    border: 1px solid lightgray;
+    width: 30%;
+}
+
+.titre_inf_banc {
+    margin-bottom: 20px;
+}
+
+.infos_prix {
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.visa {
+    width: 30%;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    min-width: 200px;
+}
+
+
+
