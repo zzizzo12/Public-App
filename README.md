@@ -1,3 +1,7 @@
+# Amazon clone with React,Redux,Firebase,Material Ui
+
+ this clone has been made as a funny project with all react features and hooks
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
